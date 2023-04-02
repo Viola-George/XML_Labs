@@ -1,0 +1,188 @@
+<library>
+    <location>St/2.3 Smouha,Aleaxandria,Egypt</location>
+    <description>This is an library with a wide range of books </description>
+    <librarian>Viola George</librarian>
+    
+    <books>
+        <book title="We Were Liars" isbn="978-0-7432-7356-5" author="E. Lockhart ">
+          <preface>An introduction</preface>
+             <parts>
+            <part title="Part 1: The Romantic Egotist">
+                <chapters>
+                <chapter title="Chapter 1">
+                    <summary> beautiful and distinguished family. A private island.
+                     A brilliant, damaged girl; a passionate, political boy. 
+                    
+                     </summary>
+                    <sections>
+                    <section>
+                    <paragraph>The first paragraph of the chapter.</paragraph>
+                    </section>
+                    <section>
+                    <paragraph>The second paragraph of the chapter.</paragraph>
+                    </section>
+                </sections>
+                </chapter>
+                <chapter title="Chapter 2">
+                <summary> A group of four friends—the Liars—whose friendship turns destructive. 
+                     A revolution. An accident. A secret. Lies upon lies. True love. The truth.</summary>
+                <sections>
+                    <section>
+                        <paragraph>The first paragraph of the chapter.</paragraph>
+                    </section>
+                    <section>
+                    <paragraph>The second paragraph of the chapter.</paragraph>
+                    </section>
+                </sections>
+                </chapter>
+                 <chapter title="Chapter 3">
+                    <summary> We Were Liars is a modern, sophisticated suspense novel from New York Times bestselling author,
+                     National Book Award finalist, and Printz Award honoree E. Lockhart.</summary>
+                    <sections>
+                    <section>
+                    <paragraph>The first paragraph of the chapter.</paragraph>
+                    </section>
+                    <section>
+                    <paragraph>The second paragraph of the chapter.</paragraph>
+                    </section>
+                </sections>
+                </chapter>
+              </chapters>
+            </part>
+           <part title="Part 2: Egotist">
+                <chapters>
+                <chapter title="Chapter 4">
+                    <summary> beautiful and distinguished family. A private island.
+                     A brilliant, damaged girl; a passionate, political boy. 
+                    
+                     </summary>
+                    <sections>
+                    <section>
+                    <paragraph>The first paragraph of the chapter.</paragraph>
+                    </section>
+                    <section>
+                    <paragraph>The second paragraph of the chapter.</paragraph>
+                    </section>
+                </sections>
+                </chapter>
+                <chapter title="Chapter 5">
+                <summary> A group of four friends—the Liars—whose friendship turns destructive. 
+                     A revolution. An accident. A secret. Lies upon lies. True love. The truth.</summary>
+                <sections>
+                    <section>
+                        <paragraph>The first paragraph of the chapter.</paragraph>
+                    </section>
+                    <section>
+                    <paragraph>The second paragraph of the chapter.</paragraph>
+                    </section>
+                </sections>
+                </chapter>
+                 <chapter title="Chapter 6">
+                    <summary> We Were Liars is a modern, sophisticated suspense novel from New York Times bestselling author,
+                     National Book Award finalist, and Printz Award honoree E. Lockhart.</summary>
+                    <sections>
+                    <section>
+                    <paragraph>The first paragraph of the chapter.</paragraph>
+                    </section>
+                    <section>
+                    <paragraph>The second paragraph of the chapter.</paragraph>
+                    </section>
+                </sections>
+                </chapter>
+              </chapters>
+            </part>
+             </parts>
+        </book>
+        
+         <book title="The Holy Bible: King James Version" isbn="978-0-7432-7356-5" author="Anonymous">
+          <preface>An introduction</preface>
+             <parts>
+            <part title="Part 1: The Romantic Egotist">
+                <chapters>
+                <chapter title="Chapter 1">
+                    <summary> An Award or Presentation Bible in the King James Version:
+                     ideal as a gift or to keep The full text of the Popular size King James or Authorized Version Bible,
+                    in a straightforward black imitation leather hardback binding.
+                     </summary>
+                    <sections>
+                    <section>
+                    <paragraph>The first paragraph of the chapter.</paragraph>
+                    </section>
+                    <section>
+                    <paragraph>The second paragraph of the chapter.</paragraph>
+                    </section>
+                </sections>
+                </chapter>
+                <chapter title="Chapter 2">
+                <summary> A group of four friends—the Liars—whose friendship turns destructive. 
+                     A revolution. An accident. A secret. Lies upon lies. True love. The truth.</summary>
+                <sections>
+                    <section>
+                        <paragraph>The first paragraph of the chapter.</paragraph>
+                    </section>
+                    <section>
+                    <paragraph>The second paragraph of the chapter.</paragraph>
+                    </section>
+                </sections>
+                </chapter>
+                 <chapter title="Chapter 3">
+                    <summary> We Were Liars is a modern, sophisticated suspense novel from New York Times bestselling author,
+                     National Book Award finalist, and Printz Award honoree E. Lockhart.</summary>
+                    <sections>
+                    <section>
+                    <paragraph>The first paragraph of the chapter.</paragraph>
+                    </section>
+                    <section>
+                    <paragraph>The second paragraph of the chapter.</paragraph>
+                    </section>
+                </sections>
+                </chapter>
+              </chapters>
+            </part>
+           <part title="Part 2: Egotist">
+                <chapters>
+                <chapter title="Chapter 4">
+                    <summary> beautiful and distinguished family. A private island.
+                     A brilliant, damaged girl; a passionate, political boy. 
+                    
+                     </summary>
+                    <sections>
+                    <section>
+                    <paragraph>The first paragraph of the chapter.</paragraph>
+                    </section>
+                    <section>
+                    <paragraph>The second paragraph of the chapter.</paragraph>
+                    </section>
+                </sections>
+                </chapter>
+                <chapter title="Chapter 5">
+                <summary> A group of four friends—the Liars—whose friendship turns destructive. 
+                     A revolution. An accident. A secret. Lies upon lies. True love. The truth.</summary>
+                <sections>
+                    <section>
+                        <paragraph>The first paragraph of the chapter.</paragraph>
+                    </section>
+                    <section>
+                    <paragraph>The second paragraph of the chapter.</paragraph>
+                    </section>
+                </sections>
+                </chapter>
+                 <chapter title="Chapter 6">
+                    <summary> We Were Liars is a modern, sophisticated suspense novel from New York Times bestselling author,
+                     National Book Award finalist, and Printz Award honoree E. Lockhart.</summary>
+                    <sections>
+                    <section>
+                    <paragraph>The first paragraph of the chapter.</paragraph>
+                    </section>
+                    <section>
+                    <paragraph>The second paragraph of the chapter.</paragraph>
+                    </section>
+                </sections>
+                </chapter>
+              </chapters>
+            </part>
+             </parts>
+        </book>
+        
+    </books>
+</library>
