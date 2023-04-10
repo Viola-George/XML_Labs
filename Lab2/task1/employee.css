@@ -1,0 +1,29 @@
+Employees{
+   background-color: white;
+   width:60%;
+   margin:auto;
+   }
+   
+   Name{
+       font-size: xx-large;
+   }
+   Phones,Addresses,Email{
+       font-size: large;
+       margin:5px 30px;
+   
+   }
+   Phones,Addresses{
+       display:flex;
+       flex-direction: column;
+   }
+   
+   Employee{
+       display:flex;
+       flex-direction: column;
+       padding: 3.2%;
+       margin:1%;
+       background-color: #d63384;
+       text-align: center;
+       color: white;
+       border-radius: 5%;
+   }
