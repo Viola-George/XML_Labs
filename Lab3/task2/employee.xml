@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="employee.css"?>
+<?xml-stylesheet type="text/xsl" href="employee.xsl"?>
+
+<Employees>
+
+  <Employee isbn="1">
+    <Name>Viola George</Name>
+    <Phones>
+      <Phone Type="home">035192074</Phone>
+      <Phone Type="work">0123456787</Phone>
+      <Phone Type="mobile">0102344566</Phone>
+    </Phones>
+    <Addresses>
+      <Address>
+        <Street>St/</Street>
+        <building>2.</building>
+        <number>3</number>
+        <Region>Smouha</Region>
+        <City>Aleaxandria</City>
+        <Country>Egypt</Country>
+      </Address>
+    </Addresses>
+    <Email>violageorgekamal@gmail.com</Email>
+  </Employee>
+
+ 
+<Employee  isbn="2">
+    <Name>Martina George</Name>
+    <Phones>
+      <Phone Type="home">035192074</Phone>
+      <Phone Type="work">0123456787</Phone>
+      <Phone Type="mobile">0102344566</Phone>
+    </Phones>
+    <Addresses>
+      <Address>
+        <Street>St/</Street>
+        <building>2.</building>
+        <number>3</number>
+        <Region>Smouha</Region>
+        <City>Aleaxandria</City>
+        <Country>Egypt</Country>
+      </Address>
+    </Addresses>
+    <Email>martinageorgekamal@gmail.com</Email>
+  </Employee>
+
+   <Employee  isbn="3">
+    <Name>Mina George</Name>
+    <Phones>
+      <Phone Type="home">035192074</Phone>
+      <Phone Type="work">0123456787</Phone>
+      <Phone Type="mobile">0102344566</Phone>
+    </Phones>
+    <Addresses>
+      <Address>
+        <Street>St/</Street>
+        <building>2.</building>
+        <number>3</number>
+        <Region>Smouha</Region>
+        <City>Aleaxandria</City>
+        <Country>Egypt</Country>
+      </Address>
+    </Addresses>
+    <Email>minageorgekamal@gmail.com</Email>
+  </Employee>
+
+
+</Employees>
+
